@@ -16,4 +16,4 @@ class Solution(object):
 
 s = Solution()
 # assert s.wordBreak("leetcode", ["leet","code"])
-print(s.wordBreak("cats", ["cat","s"]))
+print(s.wordBreak("cats", ["cat","ts"]))
